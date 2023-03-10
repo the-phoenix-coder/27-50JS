@@ -13,18 +13,18 @@ HTML, CSS and JavaScript
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="https://github.com/the-phoenix-coder/24-50JS/tree/main/Kinetic%20Loader">Kinetic Loader</a></td>
-      <td><a href="https://kinetic-loader-zeta.vercel.app/">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/27-50JS/tree/main/Vertical%20Slider">Vertical Slider</a></td>
+      <td><a href="">Live</a></td>
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="https://github.com/the-phoenix-coder/24-50JS/tree/main/Content%20Placeholder">Content Placeholder</a></td>
-      <td><a href="https://content-placeholder-dusky.vercel.app/">Live</a></td>
+      <td><a href="">In Progress</a></td>
+      <td><a href="">Live</a></td>
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="https://github.com/the-phoenix-coder/24-50JS/tree/main/Sticky%20Navbar">Sticky Navbar</a></td>
-      <td><a href="https://sticky-navbar-ten.vercel.app/">Live</a></td>
+      <td><a href="">In Progress</a></td>
+      <td><a href="">Live</a></td>
     </tr>
   </tbody>
 </table>
