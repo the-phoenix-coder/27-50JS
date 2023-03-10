@@ -14,7 +14,7 @@ HTML, CSS and JavaScript
     <tr>
       <td>01</td>
       <td><a href="https://github.com/the-phoenix-coder/27-50JS/tree/main/Vertical%20Slider">Vertical Slider</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://vertical-slider-theta.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>02</td>
