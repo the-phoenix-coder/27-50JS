@@ -1,4 +1,4 @@
-# 27-50JS
+https://github-profiles-nine-omega.vercel.app/# 27-50JS
 
 from day 25 to day 27 of 50 days of javascript challenge
 
@@ -24,7 +24,7 @@ HTML, CSS and JavaScript
     <tr>
       <td>03</td>
       <td><a href="https://github.com/the-phoenix-coder/27-50JS/tree/main/Github%20Profiles">Github Profiles</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github-profiles-nine-omega.vercel.app/">Live</a></td>
     </tr>
   </tbody>
 </table>
