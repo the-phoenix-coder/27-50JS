@@ -23,7 +23,7 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="">In Progress</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/27-50JS/tree/main/Github%20Profiles">Github Profiles</a></td>
       <td><a href="">Live</a></td>
     </tr>
   </tbody>
